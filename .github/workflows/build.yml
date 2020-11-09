@@ -21,4 +21,4 @@ jobs:
       with:
         python-version: 3.8
     - name: Build
-      run: python3 python/main.py 
+      run: python3 test2.py
